@@ -34,7 +34,11 @@
 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
+  
+<a href="https://github.com/AmolAdhude/AmolAdhude">
+  <img align="center" src="https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="AmolAdhude's GitHub Stats" />
+</a>
 
  # <img src="https://telegra.ph/file/99feae7d9c8bdf36686de.gif" width="100"> Find me arround world
   
