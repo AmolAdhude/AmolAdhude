@@ -14,7 +14,11 @@
 </p>
   
  # <img src="https://telegra.ph/file/99feae7d9c8bdf36686de.gif" width="100"> Github Stats
-  [![GitHub Streak](https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)![AmolAdhude's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmolAdhude&show_icons=true&theme=dark)
+  <div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=AmolAdhude&show_icons=true&theme=dark" />
+</div>
+  
  <p align="center">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolAdhude&langs_count=8&theme=dark"/>
    </p>
