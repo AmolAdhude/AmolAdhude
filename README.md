@@ -1,18 +1,24 @@
-<h1 align="center">Hi<img width="35" src="https://telegra.ph/file/6c70d6251d835499c5e4b.gif"> I am Amol Adhude</br><sub>Aspiring Full- Stack Developer</sub><h1>
+<!-- heading -->
+<h1 align="center">Hi<img width="35" src="https://telegra.ph/file/6c70d6251d835499c5e4b.gif"> I am Amol Adhude</br><sub>Aspiring Full- Stack Developer</sub><br>
+<img align="center" src="https://komarev.com/ghpvc/?username=AmolAdhude&style=for-the-badge"/><h1>
 
-<p align="center">
+  
+<!-- image-->
+  <p align="center">
   <img width="500" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </p>
 
+<!-- Languages i know-->
 # <img src="https://telegra.ph/file/99feae7d9c8bdf36686de.gif" width="100">Languages I know
 
   <p align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://telegra.ph/file/85ee3485445136f99e44d.png" width="100"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://telegra.ph/file/963217a52842b4f8e82a9.png" width="100"/></a> 
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://telegra.ph/file/4af16ca46bee53d4bc246.png" width="100"/></a>
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://telegra.ph/file/735399ee041e861647f8f.png" width="100"/></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://telegra.ph/file/85ee3485445136f99e44d.png" width="50"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://telegra.ph/file/963217a52842b4f8e82a9.png" width="50"/></a> 
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://telegra.ph/file/4af16ca46bee53d4bc246.png" width="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://telegra.ph/file/735399ee041e861647f8f.png" width="50"/></a>
 </p>
   
+<!-- github stats-->
  # <img src="https://telegra.ph/file/99feae7d9c8bdf36686de.gif" width="100"> Github Stats
 <!--  <p align="center">
   <img class="img" src="https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
@@ -39,7 +45,8 @@
 <a href="https://github.com/AmolAdhude/AmolAdhude">
   <img align="center" src="https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="AmolAdhude's GitHub Stats" />
 </a>
-
+<!-- find me arround world-->
+  
  # <img src="https://telegra.ph/file/99feae7d9c8bdf36686de.gif" width="100"> Find me arround world
   
 <p align="center">
@@ -49,3 +56,4 @@
   <a href="https://twitter.com/amoladhude1"><img src="https://telegra.ph/file/6e9ae2924ddff69849c3c.png" width="100"/></a>
   <a href="https://www.youtube.com/c/AmolAdhude"><img src="https://telegra.ph/file/547cc0bd0141a3f099f8e.png" width="100"/></a>
 </p>
+
