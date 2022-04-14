@@ -27,24 +27,28 @@
    </p> -->
   
   <a href="https://github.com/AmolAdhude/AmolAdhude">
+  <img align="center" src="https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="AmolAdhude's GitHub Stats" />
+</a>
+  
+  <a href="https://github.com/AmolAdhude/AmolAdhude">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolAdhude&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/AmolAdhude/AmolAdhude">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmolAdhude&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AmolAdhude's GitHub Stats" />
 </a>
 
+<!-- github stats-->
+# <img src="https://telegra.ph/file/99feae7d9c8bdf36686de.gif" width="100"> My Projects
+  
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/AmolAdhude/Food-munch-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmolAdhude&repo=Food-munch-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
-<a href="https://github.com/AmolAdhude/AmolAdhude">
-  <img align="center" src="https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="AmolAdhude's GitHub Stats" />
-</a>
 <!-- find me arround world-->
   
  # <img src="https://telegra.ph/file/99feae7d9c8bdf36686de.gif" width="100"> Find me arround world
