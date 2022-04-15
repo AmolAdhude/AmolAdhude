@@ -26,18 +26,18 @@
    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolAdhude&langs_count=8&theme=dark"/>
    </p> -->
   
-  <a href="https://github.com/AmolAdhude/AmolAdhude">
+  <a href="https://github.com/AmolAdhude/github-readme-stats">
   <img align="center" src="https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="AmolAdhude's GitHub Stats" />
 </a>
   
   <a href="https://github.com/AmolAdhude/AmolAdhude">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolAdhude&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolAdhude&theme=dark"/>
 </a>
 <a href="https://github.com/AmolAdhude/AmolAdhude">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmolAdhude&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AmolAdhude's GitHub Stats" />
 </a>
 
-<!-- github stats-->
+<!-- My Projects-->
 # <img src="https://telegra.ph/file/99feae7d9c8bdf36686de.gif" width="100"> My Projects
   
 <a href="https://github.com/AmolAdhude/Static-websites">
