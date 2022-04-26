@@ -16,6 +16,8 @@
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://telegra.ph/file/963217a52842b4f8e82a9.png" width="50"/></a> 
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://telegra.ph/file/4af16ca46bee53d4bc246.png" width="50"/></a>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://telegra.ph/file/735399ee041e861647f8f.png" width="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQLite"><img src="https://telegra.ph/file/40ae87dad3db678e9da61.png" width="50"/></a> 
+    
 </p>
   
 <!-- github stats-->
