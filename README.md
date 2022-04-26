@@ -46,17 +46,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmolAdhude&repo=Todos-web-application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-  
-  <a href="https://github.com/AmolAdhude/Static-websites">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmolAdhude&repo=Static-websites&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
 <a href="https://github.com/AmolAdhude/Food-munch-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmolAdhude&repo=Food-munch-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
-
+  <a href="https://github.com/AmolAdhude/Static-websites">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmolAdhude&repo=Static-websites&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!-- find me arround world-->
   
