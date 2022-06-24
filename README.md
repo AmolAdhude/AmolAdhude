@@ -28,10 +28,6 @@
    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolAdhude&langs_count=8&theme=dark"/>
    </p> -->
   
-  <a href="https://github.com/AmolAdhude/github-readme-stats">
-  <img align="center" src="https://githubstatsamol.herokuapp.com?user=AmolAdhude&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="AmolAdhude's GitHub Stats" />
-</a>
-  
   <a href="https://github.com/AmolAdhude/AmolAdhude">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolAdhude&theme=dark"/>
 </a>
